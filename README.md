@@ -1,4 +1,4 @@
-# Gulp, Jade, Sass, Gulp and Bootstrap template
+# Gulp, Jade, Sass, jQuery and Bootstrap template
 
 This repository is a quick jumpstart template for any web developer who is tired of setting up the same project over and over again.
 
