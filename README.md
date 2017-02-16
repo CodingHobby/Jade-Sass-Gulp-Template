@@ -79,17 +79,17 @@ This folder also has different sub directories:
   It has two subdirectories:
 
   + ### Build:
-    This is where the minified scripts are going to end up
+      This is where the minified scripts are going to end up
 
-    + #### Plugins:
+    + ### Plugins:
       This is where the minified plugins are going to end up
 
   + ### Css:
-    This is where your only minified css file is going to end up
+      This is where your only minified css file is going to end up
 ---
 
 In the root directory you can also find:
-+ ### The ```gulpfile.js``` file 
++ ## The ```gulpfile.js``` file 
   which contains all of the gulp tasks
-+ The ```package.json``` file 
++ ## The ```package.json``` file 
   where you can edit your node.js configuration and the npm dependencies to install
