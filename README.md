@@ -7,7 +7,6 @@ It uses gulp to compile sass and jade files into a bundled css file and separate
 To utilize this template you'll need Node.js and npm to be installed on your system, since they are necessaty for Gulp to run
 ## How to use this template
 1. Clone this repository from the terminal with the command ```git clone https://github.com/CodingHobby/Jade-Sass-Gulp-Template``` 
-
 2. Go into the repository you just cloned
 3. Run the command ```npm install```
 4. Run the command ```npm start``` to start gulp, my task runner of choice, which will compile all of your files and start a live reloading server with CSS injection using BrowserSync, which will even let you see the website you created from different devices (which is a big part of web desing)
