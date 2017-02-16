@@ -84,9 +84,9 @@ This folder also has different sub directories:
     + Plugins:
       This is where the minified plugins are going to end up
 
-  + Css:
-      This is where your only minified css file is going to end up
----
+  + ## Css:
+    This is where your only minified css file is going to end up
+
 
 In the root directory you can also find:
 + The ```gulpfile.js``` file 
