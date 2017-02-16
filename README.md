@@ -55,13 +55,13 @@ This folder also has different sub directories:
 
 + ## CSS:
 
-  + ### 0-plugins
+  + ## 0-plugins
     This is where you should be keeping your plugins saved as SCSS files (this template already comes with Bootstrap)
 
-  + ### 1-base
+  + ## 1-base
     This is where you should be keeping all of your base files, such as fonts and general rules that are valid throughout the whole website
 
-  + ### 2-modules
+  + ## 2-modules
     This is where you should be keeping the SASS modules, which just contain style rules for a few classes, making the whole styling modular
 
 + ## Layouts:
@@ -70,7 +70,7 @@ This folder also has different sub directories:
 + ## Scripts:
   This is here you should keep all of your JS files
 
-  + ### Plugins:
+  + Plugins:
     This is where you should be keeping all of your plugins (this template already comes with both Bootstrap.js and jQuery)
 
 + ## Dist:
@@ -78,18 +78,18 @@ This folder also has different sub directories:
 
   It has two subdirectories:
 
-  + ### Build:
+  + ## Build:
       This is where the minified scripts are going to end up
 
-    + ### Plugins:
+    + Plugins:
       This is where the minified plugins are going to end up
 
-  + ### Css:
+  + Css:
       This is where your only minified css file is going to end up
 ---
 
 In the root directory you can also find:
-+ ## The ```gulpfile.js``` file 
++ The ```gulpfile.js``` file 
   which contains all of the gulp tasks
-+ ## The ```package.json``` file 
++ The ```package.json``` file 
   where you can edit your node.js configuration and the npm dependencies to install
