@@ -1,0 +1,22 @@
+{
+  "name": "jade-sass",
+  "version": "1.0.0",
+  "description": "A jade and sass template",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Corrado Canepari <codinghobby@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/codinghobby/book_site",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-minify": "0.0.14",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
